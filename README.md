@@ -69,8 +69,6 @@ I’m a highly motivated **Full-Stack Developer** with a deep passion for creati
 #### 🔷 **Tools & Platforms**
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
