@@ -35,29 +35,34 @@ I’m a highly motivated **Full-Stack Developer** with a deep passion for creati
 
 ### 🧰 Tech Toolbox
 
-#### 🔷 **Frontend Development**
+#### 💻 **Frontend Development**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+</p>
+
+#### 📱 **Mobile App Development**
+<p>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
-#### 🔷 **Backend Development**
+#### 🔙 **Backend Development**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 </p>
 
-#### 🔷 **Databases & ORM**
+#### 🗃️ **Databases & ORM**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="40" height="40"/>
 </p>
 
-#### 🔷 **Languages**
+#### 🔤 **Languages**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -66,7 +71,7 @@ I’m a highly motivated **Full-Stack Developer** with a deep passion for creati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
-#### 🔷 **Tools & Platforms**
+#### 🛠️ **Tools & Platforms**
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
@@ -91,4 +96,3 @@ I’m a highly motivated **Full-Stack Developer** with a deep passion for creati
 
 > 🧠 *“People ignore design that ignores people.” – Frank Chimero*  
 > Let’s build things that make lives easier — with great UX, strong architecture, and clean code.
-
