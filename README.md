@@ -1,98 +1,175 @@
-<h1 align="center">Hi there 👋 I'm Suryansh Pathania</h1>
+<div align="center">
+  
+# 👨‍💻 Suryansh Pathania
 
-<h3 align="center">💻 Full-Stack Developer | MERN & Mobile App Expert | Backend Craftsman | Prisma Pro</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryanshpathania&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🚀 About Me
-
-I’m a highly motivated **Full-Stack Developer** with a deep passion for creating elegant, scalable, and performance-driven applications. From **MERN web apps** to **mobile-first products with React Native and Flutter**, I bring ideas to life with clean code, structured architecture, and user-centered design.
-
-📌 **Key Highlights**:
-- 🔧 Built scalable products with **React, Node, and Prisma**
-- 📱 Developed cross-platform apps with **React Native** and **Flutter**
-- 🔐 API-first backend design using **NestJS**, **Express.js**, and **MongoDB**
-- ⚙️ Strong command over **TypeScript**, **JavaScript**, **Java**, and **Python**
-- ⚡ Constantly exploring modern tech trends — currently diving into **Next.js**, **Prisma Migrations**, and **Clean Architecture**
-
-💌 **Let’s collaborate**: `sp.ssdps@gmail.com`
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/suryanshpathania/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-### 🧰 Tech Toolbox
-
-#### 💻 **Frontend Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-</p>
-
-#### 📱 **Mobile App Development**
-<p>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
-</p>
-
-#### 🔙 **Backend Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-</p>
-
-#### 🗃️ **Databases & ORM**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="40" height="40"/>
-</p>
-
-#### 🔤 **Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</p>
-
-#### 🛠️ **Tools & Platforms**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+MERN+Expert;Mobile+App+Craftsman+%7C+React+Native;Backend+Architect+%7C+Prisma+Pro;Building+Tomorrow's+Digital+Experiences" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshpathania&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=suryanshpathania&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/suryanshpathania?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpathania&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🔥 **Passionate Full-Stack Developer** crafting digital experiences that matter
+
+🎯 **Mission**: Transforming complex ideas into elegant, scalable solutions
+
+💡 **Specialty**: Building robust applications from concept to deployment
+
+🌟 **Current Focus**: Advanced Next.js patterns, Microservices architecture, and AI integration
+
+📍 **Location**: India 🇮🇳
+
+💌 **Collaboration**: Open to exciting projects and innovative ideas
+
+<br clear="right"/>
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,tailwind,bootstrap,materialui" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshpathania&layout=compact&theme=tokyonight" alt="Top Languages"/>
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift" />
 </p>
+
+### ⚙️ Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,firebase,supabase,aws,gcp" />
+</p>
+
+### 🔧 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,docker,kubernetes,git,github,vscode,figma" />
+</p>
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suryanshpathania&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpathania&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshpathania&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=suryanshpathania&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Wakatime Stats"/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Suryansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryanshpathania&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=suryanshpathania&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🎯 Current Projects & Learning
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔥 Working On
+- 🌐 Next.js 14 with App Router
+- 🤖 AI-Powered SaaS Platform
+- 📱 Cross-platform Mobile App
+- 🔐 Microservices Architecture
+
+</td>
+<td width="50%">
+
+### 📚 Learning
+- 🦀 Rust Programming
+- ☁️ Advanced AWS Services
+- 🧠 Machine Learning with Python
+- 🔗 Blockchain Development
+
+</td>
+</tr>
+</table>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshpathania/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sp.ssdps@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+</div>
+
+## 💝 Support My Work
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryanshpathania)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
+
+</div>
+
+## 📈 Detailed Stats
+
+<details>
+<summary>📊 More GitHub Stats</summary>
+<br>
+
+<div align="center">
+
+![GitHub metrics](https://metrics.lecoq.io/suryanshpathania?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&discussions.categories=true&config.octicon=true&config.timezone=Asia%2FKolkata)
+
+</div>
+
+</details>
+
+<div align="center">
 
 ---
 
-> 🧠 *“People ignore design that ignores people.” – Frank Chimero*  
-> Let’s build things that make lives easier — with great UX, strong architecture, and clean code.
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Let's build something amazing together! 🚀**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
