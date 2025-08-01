@@ -3,7 +3,7 @@
 # 👨‍💻 Suryansh Pathania
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+MERN+Expert;Mobile+App+Craftsman+%7C+React+Native;Backend+Architect+%7C+Prisma+Pro;Building+Tomorrow's+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+MERN+Expert;Mobile+App+Craftsman+%7C+React+Native;Backend+Architect+%7C+Prisma+Pro" alt="Typing SVG" />
 </div>
 
 <p align="center">
