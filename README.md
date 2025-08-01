@@ -40,17 +40,17 @@
 
 ### 🎨 Frontend Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui" />
 </p>
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
 </p>
 
 ### ⚙️ Backend Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,springboot" />
 </p>
 
 ### 🗄️ Database & Cloud
@@ -60,7 +60,7 @@
 
 ### 🔧 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,docker,kubernetes,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,docker,kubernetes,kafka,git,github,vscode,figma" />
 </p>
 
 </div>
@@ -70,14 +70,13 @@
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suryanshpathania&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshpathania&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshpathania&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=suryanshpathania&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Wakatime Stats"/>
+
+
 
 </div>
 
@@ -96,6 +95,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=suryanshpathania&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 
 ## 🎯 Current Projects & Learning
 
@@ -142,19 +142,7 @@
 
 </div>
 
-## 📈 Detailed Stats
 
-<details>
-<summary>📊 More GitHub Stats</summary>
-<br>
-
-<div align="center">
-
-![GitHub metrics](https://metrics.lecoq.io/suryanshpathania?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&discussions.categories=true&config.octicon=true&config.timezone=Asia%2FKolkata)
-
-</div>
-
-</details>
 
 <div align="center">
 
@@ -168,7 +156,7 @@
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**Let's build something amazing together! 🚀**
+**Let's build something amazing together! **
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
